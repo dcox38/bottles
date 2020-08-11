@@ -1,0 +1,6 @@
+@bottles.map do |bottle|
+  {
+    color: bottle.color,
+    size: bottle.size
+  }
+end
